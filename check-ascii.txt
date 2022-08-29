@@ -1,0 +1,8 @@
+https://www.rapidtables.com/code/text/ascii-table.html
+
+172 	AC 	10101100 	&#172; 	¬
+237 	ED 	11101101 	&#237; 	í
+
+
+116 	74 	01110100 	&#116; 	t
+97 	61 	01100001 	&#97; 	a
